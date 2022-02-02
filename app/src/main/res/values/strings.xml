@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mendiola_Calculator</string>
+    <string name="buttonPlusText">+</string>
+    <string name="ButtonMinusText">-</string>
+    <string name="buttonMultiplyText">x</string>
+    <string name="ButtonDivideText">/</string>
+    <string name="ButtonEqualText">=</string>
+    <string name="placeholderNumber">0.0</string>
+    <string name="firstTextViewText">First Variable</string>
+    <string name="secondTextViewText">Second Variable</string>
+    <string name="the_result_is">"The result is "</string>
+</resources>
