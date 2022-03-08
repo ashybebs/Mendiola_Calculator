@@ -4,7 +4,7 @@
     <string name="ButtonMinusText">-</string>
     <string name="buttonMultiplyText">x</string>
     <string name="ButtonDivideText">/</string>
-    <string name="ButtonEqualText">=</string>
+    <string name="ButtonModuloText">%</string>
     <string name="placeholderNumber">0.0</string>
     <string name="firstTextViewText">First Variable</string>
     <string name="secondTextViewText">Second Variable</string>

@@ -48,12 +48,12 @@
         app:layout_constraintTop_toTopOf="@+id/buttonMultiply" />
 
     <Button
-        android:id="@+id/buttonEqual"
+        android:id="@+id/buttonModulo"
         android:layout_width="163dp"
         android:layout_height="74dp"
         android:layout_marginStart="123dp"
         android:layout_marginTop="471dp"
-        android:text="@string/ButtonEqualText"
+        android:text="@string/ButtonModuloText"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
